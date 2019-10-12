@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "mocha server.test.js",
-+   "danger": "danger ci"
+    "danger": "danger ci"
   },
   "author": "",
   "license": "ISC",
